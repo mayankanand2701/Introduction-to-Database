@@ -1,0 +1,9 @@
+create table Instructor (ID number(5), Name varchar2(30), Dept_name varchar2(20), Salary number(6));
+
+create table Course (Course_ID varchar2(10), Title varchar2(30), Dept_name varchar2(20), Credits number(2));
+
+create table Prereq (Course_id varchar2(10), Prereq_id varchar2(10));
+
+create table Department (dept_name varchar2(20), building varchar2(20), budget number(10));
+
+create table Teachers( ID number(5), Course_id varchar2(10), sec_id number(2), semester varchar2(10), year number(4));

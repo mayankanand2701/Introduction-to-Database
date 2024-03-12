@@ -1,0 +1,16 @@
+insert all
+into course values('BIO-101', 'Intro. to Blology', 'Biology',4) 
+into course values('BIO-301', 'Genetics', 'Biology',4) 
+into course values('BIO-399','Computaional Bilogy', 'Biology',3)
+into course values('CS-101', 'Intro. to Computer Science', 'Comp. Sci.', 4)
+into course values('CS-190', 'Game Design', 'Comp. Sci.',4)
+into course values('CS-315','Robotics','Comp. Sci.',3)
+into course values('CS-319', 'Image Processing', 'Comp. Sci.',3)
+into course values('CS-347','Databse System Concepts','Comp. Sci.',3)
+into course values('EE-181','Intro. to Digital Systems','Elec. Eng.',3)
+into course values('FIN-201', 'Investment Banking', 'Finance', 3)
+into course values('HIS-351', 'World History', 'History',3)
+into course values('MU-199','Music Video Production','Music',3)
+into course values('PHY-101', 'Physical Principles', 'Physics',4)
+select * from dual;
+

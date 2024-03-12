@@ -1,0 +1,14 @@
+insert all
+into department values('Biology', 'Watson', 90000)
+into department values('Comp. Sci.', 'Taylor', 100000)
+into department values('Elec. Eng.', 'Taylor',85000)
+into department values('Finance', 'Palnter', 120000)
+into department values('History', 'Painter', 50000)
+into department values('Music', 'Packard',80000)
+into department values('Physics', 'Watson', 70000)
+select * from dual;
+
+
+
+
+

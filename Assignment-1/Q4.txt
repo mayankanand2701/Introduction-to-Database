@@ -1,0 +1,9 @@
+insert all
+into Prereq values('BIO-301', 'BIO-101')
+into Prereq values('BIO-399', 'BIO-101')
+into Prereq values('CS-190', 'CS-101')
+into Prereq values('CS-315', 'CS-101')
+into Prereq values('CS-319', 'CS-101')
+into Prereq values('CS-347', 'CS-1-1') 
+into Prereq values('EE-181', 'PHY-101')
+select from dual;
