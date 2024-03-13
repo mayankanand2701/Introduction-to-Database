@@ -1,0 +1,3 @@
+alter table department rename column building to builder;
+// to see the above change
+desc department;

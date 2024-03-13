@@ -1,0 +1,3 @@
+alter table prereq rename to prerequired;
+// to see the above change
+select * from tab;

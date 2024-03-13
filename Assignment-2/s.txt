@@ -1,0 +1,3 @@
+drop table prerequired;
+// to see the above changes
+select * from tab;

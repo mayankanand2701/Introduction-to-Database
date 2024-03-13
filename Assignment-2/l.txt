@@ -1,0 +1,3 @@
+insert into instructor(date_of_join) values(to_date('1990-01-01','yyyy-mm-dd'));
+// to see the above changes has been added or not
+select * from instructor;

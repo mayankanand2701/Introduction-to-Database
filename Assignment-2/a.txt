@@ -1,0 +1,5 @@
+desc instructor;
+desc course;
+desc prereq;
+desc department;
+desc teachers;

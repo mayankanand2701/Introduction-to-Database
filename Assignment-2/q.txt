@@ -1,0 +1,3 @@
+rename instructor to faculty_info;
+// to see the above changes
+select * from tab;

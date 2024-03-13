@@ -1,0 +1,5 @@
+select * from instructor;
+select * from course;
+select * from prereq;
+select * from teachers;
+select * from department;

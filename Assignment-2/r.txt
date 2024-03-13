@@ -1,0 +1,3 @@
+alter table course modify sub_code varchar2(8);
+// to see the above changes
+desc course;
