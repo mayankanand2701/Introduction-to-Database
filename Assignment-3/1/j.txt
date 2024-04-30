@@ -1,0 +1,1 @@
+update course set title='Game Theory' where title='Game Design';

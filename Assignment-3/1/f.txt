@@ -1,0 +1,1 @@
+select name from instructor where department='Comp. Sci.' order by salary desc;

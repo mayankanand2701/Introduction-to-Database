@@ -1,0 +1,1 @@
+select sub_code,title,credits from course where dept_name in ('Physics','Music','Finance','Biology');

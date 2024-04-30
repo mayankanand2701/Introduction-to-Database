@@ -1,0 +1,1 @@
+select name,department,salary+1.05*salary+0.2*salary as gross_salary,(salary+1.05*salary+0.2*salary)-0.3*salary as net_salary from faculty_info;

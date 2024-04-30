@@ -1,0 +1,1 @@
+select * from faculty_info where name like 'K%' and salary>65000;
